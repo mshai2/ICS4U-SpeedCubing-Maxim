@@ -1,6 +1,6 @@
 <h1> ICS4U-SpeedCubing-Maxim </h1>
 <h2> Pyraminx
-
+  
 |Trial #|time|ao5|ao12|ao25|
 |-------|----|---|----|----|
 |   1   |1:06.31|n/a|n/a|n/a|
