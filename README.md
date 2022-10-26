@@ -1,5 +1,5 @@
 <h1> ICS4U-SpeedCubing-Maxim </h1>
-<h2> Pyraminx
+<h2> Pyraminx </h2>
   
 |Trial #|time|ao5|ao12|ao25|
 |-------|----|---|----|----|
@@ -29,7 +29,7 @@
 |   24  |34.98|32.28|31.42|n/a|
 |   25  |47.96|37.17|33.16|n/a|
   
-<h2> Pyraminx duo
+<h2> Pyraminx duo </h2>
 
 |Trial #|time|ao5|ao12|ao25|
 |-------|----|---|----|----|
@@ -59,7 +59,7 @@
 |   24  |5.37|6.31|6.56|n/a|
 |   25  |6.52|5.79|6.70|n/a|
   
-<h2> Corner twist pyraminx
+<h2> Corner twist pyraminx </h2>
   
 |Trial #|time|ao5|ao12|ao25|
 |-------|----|---|----|----|
