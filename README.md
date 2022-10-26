@@ -1,5 +1,8 @@
 <h1> ICS4U-SpeedCubing-Maxim </h1>
-<h2> Pyraminx </h2>
+
+<h1> No looking at cube before solving </h1>
+
+<h2> Pyraminx </h2> <h3> Method to solve: Beginner to Intermediate </h3>
   
 |Trial #|time|ao5|ao12|ao25|
 |-------|----|---|----|----|
@@ -27,9 +30,9 @@
 |   22  |37.06|31.76|31.45|n/a|
 |   23  |24.80|30.52|31.28|n/a|
 |   24  |34.98|32.28|31.42|n/a|
-|   25  |47.96|37.17|33.16|n/a|
-  
-<h2> Pyraminx duo </h2>
+|   25  |47.96|37.17|33.16|33.80|
+
+<h2> Pyraminx duo </h2> <h3> Method to solve: Beginner </h3>
 
 |Trial #|time|ao5|ao12|ao25|
 |-------|----|---|----|----|
@@ -57,9 +60,9 @@
 |   22  |5.12|6.02|5.96|n/a|
 |   23  |13.06|6.51|6.41|n/a|
 |   24  |5.37|6.31|6.56|n/a|
-|   25  |6.52|5.79|6.70|n/a|
+|   25  |6.52|5.79|6.70|6.82|
   
-<h2> Corner twist pyraminx </h2>
+<h2> Corner twist pyraminx </h2> <h3> Method to solve: Beginner </h3>
   
 |Trial #|time|ao5|ao12|ao25|
 |-------|----|---|----|----|
@@ -87,5 +90,5 @@
 |   22  |2.87|2.97|3.13|n/a|
 |   23  |3.69|3.20|3.16|n/a|
 |   24  |3.20|3.25|3.17|n/a|
-|   25  |2.44|2.98|3.15|n/a|
+|   25  |2.44|2.98|3.15|3.26|
 
