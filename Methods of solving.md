@@ -3,7 +3,7 @@
 <h3> Solving the centers </h3> 
 <h4>When solving centers, there are a few situations that can arise. </h4>
 
-<img src="https://user-images.githubusercontent.com/85532365/198412710-c97630fe-ca84-42f2-91ad-e1c2b165bc74.png" width="200"> In this situation, I would use the algorithm B' u B u'. 
+<img src="https://user-images.githubusercontent.com/85532365/198412710-c97630fe-ca84-42f2-91ad-e1c2b165bc74.png" width="200"> In this situation, I would use the algorithm u' B u R B R'. 
 
 
 
